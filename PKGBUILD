@@ -1,4 +1,4 @@
-# Maintainer: Matt C <matt@getcryst.al>
+# Maintainer: echo -n 'bWF0dEBnZXRjcnlzdC5hbA==' | base64 --decode
 
 pkgname=cinnamon-meta
 pkgver=1.0.0
